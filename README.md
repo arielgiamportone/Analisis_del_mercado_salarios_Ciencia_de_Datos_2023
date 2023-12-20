@@ -25,12 +25,12 @@ El avance tecnológico ha superado la capacidad de adaptación organizativa. En 
 
 * El tamaño de la empresa ya no dicta el salario. En cambio, las condiciones laborales ejercen un mayor peso en la decisión de los trabajadores, desafiando las antiguas correlaciones.
 
+*Estos hallazgos apuntan a un cambio dinámico en la adquisición y retención de talento, resaltando la necesidad de abordar las nuevas realidades laborales para alcanzar el éxito en un mundo tecnológicamente evolucionado.*
+
 ## Agradecimientos
 
 A Andrés Mateo Piñol y Demetrio Esteban Alférez por su paciencia, aporte de datos y técnicas de análisis y el acompañamiento continuo en la formación.
 
-*Estos hallazgos apuntan a un cambio dinámico en la adquisición y retención de talento, resaltando la necesidad de abordar las nuevas realidades laborales para alcanzar el éxito en un mundo tecnológicamente evolucionado.*
 
-# Análisis del mercado salarios en Ciencia de Datos TIC 2023
- Este repositorio contiene un proyecto de análisis de datos que se enfoca en la exploración, limpieza, análisis y visualización de un conjunto de datos específico del sector laboral para la ciencia de datos. El objetivo principal es extraer información significativa y valiosa a partir de los datos mediante diversas técnicas de análisis y visualizaci
+
 
