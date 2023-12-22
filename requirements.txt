@@ -1,3 +1,4 @@
 Streamlit
 Pandas
-plotly-express
+matplotlib.pyplot
+plotly_express
